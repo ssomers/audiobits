@@ -6,3 +6,6 @@ edition = "2021"
 [dependencies]
 symphonia = "0.5"
 num-format = "0.4"
+hound = "3.5"
+rand = "0.8"
+rand_pcg = "0.3"
